@@ -1,2 +1,0 @@
-from game import random_predict, score_game
-score_game(random_predict)
