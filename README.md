@@ -9,7 +9,7 @@ Auto game. PC predicts number and guesses it for minimum attempts.
 # Functions
 ## random_predict(number=1)
 
-Predicts number and guesses it for minimum attempts.
+Predicts number for minimum attempts.
 
 Угадывает число за минимальное количество попыток.
 
